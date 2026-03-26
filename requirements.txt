@@ -1,0 +1,15 @@
+# Visión e IA
+ultralytics
+opencv-python
+
+# Base de Datos y Seguridad
+sqlalchemy
+cryptography
+
+# Utilidades
+python-dotenv
+
+# Web Framework
+fastapi
+uvicorn
+jinja2
